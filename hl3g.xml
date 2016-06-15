@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-	<project name="FireLord1/android_device_samsung_hl3g"      	        path="device/samsung/hl3g"			remote="github" revision="cm-13.0" />
-	<project name="FireLord1/android_kernel_samsung_smdk5260" 	        path="kernel/samsung/smdk5260" 			remote="github" revision="cm-13.0" />
-        <project name="FireLord1/android_vendor_samsung_smdk5260"               path="vendor/samsung/smdk5260" 			remote="github" revision="cm-13.0" />
-	<project name="FireLord1/android_device_samsung_smdk5260-common"      	path="device/samsung/smdk5260-common"		remote="github" revision="cm-13.0" />
-	<project name="FireLord1/android_hardware_samsung_slsi-cm_exynos"     	path="hardware/samsung_slsi-cm/exynos" 		remote="github" revision="cm-13.0" />
-	<project name="FireLord1/android_hardware_samsung_slsi-cm_exynos5260" 	path="hardware/samsung_slsi-cm/exynos5260" 	remote="github" revision="cm-13.0" />
-	<project name="FireLord1/android_hardware_samsung_slsi-cm_exynos5"    	path="hardware/samsung_slsi-cm/exynos5" 	remote="github" revision="cm-13.0" />
+	<project name="FireLord1/android_device_samsung_hl3g"      	        path="device/samsung/hl3g"			remote="github" revision="cm-12.1" />
+	<project name="FireLord1/android_kernel_samsung_smdk5260" 	        path="kernel/samsung/smdk5260" 			remote="github" revision="cm-12.1" />
+        <project name="FireLord1/android_vendor_samsung_smdk5260-common"        path="vendor/samsung/smdk5260-common" 		remote="github" revision="cm-12.1" />
+        <project name="FireLord1/android_vendor_samsung_hl3g"               	path="vendor/samsung/hl3g" 			remote="github" revision="cm-12.1" />
+	<project name="FireLord1/android_device_samsung_smdk5260-common"      	path="device/samsung/smdk5260-common"		remote="github" revision="cm-12.1" />
+	<project name="FireLord1/android_hardware_samsung_slsi-cm_exynos"     	path="hardware/samsung_slsi-cm/exynos" 		remote="github" revision="cm-12.1" />
+	<project name="FireLord1/android_hardware_samsung_slsi-cm_exynos5260" 	path="hardware/samsung_slsi-cm/exynos5260" 	remote="github" revision="cm-12.1" />
+	<project name="FireLord1/android_hardware_samsung_slsi-cm_exynos5"    	path="hardware/samsung_slsi-cm/exynos5" 	remote="github" revision="cm-12.1" />
 
-	<project name="CyanogenMod/android_packages_apps_SamsungServiceMode" 	path="packages/apps/SamsungServiceMode" 	remote="github" revision="cm-13.0" />
-	<project name="CyanogenMod/android_hardware_samsung" 			path="hardware/samsung" 			remote="github" revision="cm-13.0" />
-        <project name="CyanogenMod/android_hardware_samsung_slsi-cm_openmax" 	path="hardware/samsung_slsi/openmax"            remote="github" revision="cm-13.0" />
+	<project name="CyanogenMod/android_packages_apps_SamsungServiceMode" 	path="packages/apps/SamsungServiceMode" 	remote="github" revision="cm-12.1" />
+	<project name="CyanogenMod/android_hardware_samsung" 			path="hardware/samsung" 			remote="github" revision="cm-12.1" />
+        <project name="CyanogenMod/android_hardware_samsung_slsi-cm_openmax" 	path="hardware/samsung_slsi/openmax"            remote="github" revision="cm-12.1" />
 
 </manifest>
