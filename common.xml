@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote  name="bb"
-        fetch="https://bitbucket.org" />
 
 	<project name="FireLord1/android_device_samsung_hllte"      	        path="device/samsung/hllte"			remote="github" revision="cm-12.1" />
 	<project name="FireLord1/android_device_samsung_hl3g"      	        path="device/samsung/hl3g"			remote="github" revision="cm-12.1" />
@@ -17,11 +15,5 @@
 	<project name="CyanogenMod/android_packages_apps_SamsungServiceMode" 	path="packages/apps/SamsungServiceMode" 	remote="github" revision="cm-12.1" />
 	<project name="CyanogenMod/android_hardware_samsung" 			path="hardware/samsung" 			remote="github" revision="cm-12.1" />
         <project name="CyanogenMod/android_hardware_samsung_slsi-cm_openmax" 	path="hardware/samsung_slsi/openmax"            remote="github" revision="cm-12.1" />
-
-	<!-- UBER toolchain -->
-	<remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" />
-	<remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" />
-	<project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="UBERTC/arm-eabi-4.8" revision="master" remote="bb" />
-	<project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="UBERTC/arm-linux-androideabi-4.8" revision="master" remote="bb" />
 
 </manifest>
