@@ -3,7 +3,7 @@
 
 	<project name="FireLord1/android_device_samsung_hllte"      	        path="device/samsung/hllte"			remote="github" revision="cm-13.0" />
 	<project name="FireLord1/android_device_samsung_hl3g"      	        path="device/samsung/hl3g"			remote="github" revision="cm-13.0" />
-	<project name="FireLord1/android_kernel_samsung_smdk5260" 	        path="kernel/samsung/smdk5260" 			remote="github" revision="cm-13.0" />
+	<project name="FireLord1/android_kernel_samsung_smdk5260" 	        path="kernel/samsung/smdk5260" 			remote="github" revision="cm-12.1" />
         <project name="FireLord1/android_vendor_samsung_smdk5260-common"        path="vendor/samsung/smdk5260-common" 		remote="github" revision="cm-13.0" />
         <project name="FireLord1/android_vendor_samsung_hllte"               	path="vendor/samsung/hllte" 			remote="github" revision="cm-13.0" />
 	<project name="FireLord1/android_vendor_samsung_hl3g"               	path="vendor/samsung/hl3g" 			remote="github" revision="cm-13.0" />
